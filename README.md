@@ -203,8 +203,8 @@ It felt immediately different and exciting. I had never opened Cursor before thi
 Claude Code was beyond the name. I learned Node.js, Homebrew, and a bit about markdown formatting from scratch today
 And I certainly didn't expect to spend time researching why a deprecated OpenAI API still has a live download link.
 
-But that's exactly what made this worthwhile. I walked away understanding not just how to set up these tools, but why they exist and where the industry is heading. This learning will stick with me
+But that's exactly what made this worthwhile. I walked away understanding not just how to set up these tools, but why they exist and where the industry is heading. This learning will stick with me.
 
-Whether or not we work together — thank you for giving me something I actually get to keep 
+Whether or not we work together — thank you for giving me something I actually get to keep.
 
 — Ronak
